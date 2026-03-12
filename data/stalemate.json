@@ -1,0 +1,18 @@
+{
+    "id": 4545425,
+    "name": "Stalemate",
+    "author": "Nox",
+    "creators": ["Nox"],
+    "verifier": "BarneyDaHknDino",
+    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/nv7_BsP5lQs?si=6IUPTtWTamPhIPMm",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": ["Teno"],
+    "verifier": "Bahgel",
+    "verification": "https://www.youtube.com/watch?v=1WOW4U7aSFc",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/QQ6fh0_7xHM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

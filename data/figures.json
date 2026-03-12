@@ -1,0 +1,24 @@
+{
+    "id": 6892453,
+    "name": "Figures",
+    "author": "Glittershroom",
+    "creators": ["Glitershroom"],
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/aIHGkVSZZUY?si=2gAG_Qk4NpD-3ff9",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

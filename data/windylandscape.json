@@ -1,0 +1,30 @@
+{
+    "id": 4957691,
+    "name": "Windy Landscape",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411"],
+    "verifier": "Bahgel",
+    "verification": "https://youtu.be/OWH6IkBn3Vg",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://www.youtube.com/watch?v=n6GEs4Ohbss",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "BarneyDaHknDino",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/1KTcp2ydczM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

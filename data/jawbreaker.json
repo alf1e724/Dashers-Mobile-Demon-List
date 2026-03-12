@@ -1,0 +1,30 @@
+{
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "ToranDoesGaming",
+    "verification": "https://www.youtube.com/watch?v=iVAmK0l4y00",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "BarneyDaHknDino",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bahgel",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

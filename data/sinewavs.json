@@ -1,0 +1,18 @@
+{
+    "id": 8723596,
+    "name": "Sine Wavs",
+    "author": "Dorami",
+    "creators": ["Dorami"],
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/RWUYTJK3qDQ?si=WGn_JESbzAV3mBd-",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "4lfi3",
+            "link": "https://youtu.be/YlAjy1_LubM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

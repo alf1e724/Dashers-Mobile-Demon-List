@@ -1,0 +1,18 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": ["Ggb0y"],
+    "verifier": "4lfi3",
+    "verification": "https://youtu.be/DpN5Hs5guuo",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {
+            "user": "Bahgel",
+            "link": "https://www.youtube.com/watch?v=uoVTkKmKeUM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
