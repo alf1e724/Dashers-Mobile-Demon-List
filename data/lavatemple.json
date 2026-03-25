@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Lava Temple",
+    "author": "Michigun",
+    "creators": ["Michigun"],
+    "verifier": "ToranDoesGaming",
+    "verification": "hhttps://www.youtube.com/watch?v=L7tEV1yrFWk&t=5s",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
