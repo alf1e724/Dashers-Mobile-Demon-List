@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Ohio",
     "records": [
+   {
+            "user": "ToranDoesGaming",
+            "link": "https://youtu.be/xtVb0iQTX1Y",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
