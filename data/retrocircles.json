@@ -1,0 +1,18 @@
+{
+    "id": 8660411,
+    "name": "Retro Circles",
+    "author": "Nacho21",
+    "creators": ["Nacho21"],
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/xtVb0iQTX1Y",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+   {
+            "user": "4lfi3",
+            "link": "https://youtu.be/xtVb0iQTX1Y",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
