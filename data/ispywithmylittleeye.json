@@ -1,0 +1,22 @@
+{
+    "id": 89886591,
+    "name": "ISpyWithMyLittleEye",
+    "author": "Voxicat",
+    "creators": ["Voxicat"],
+    "verifier": "BarneyDaHknDino",
+    "verification": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {    "user": "ToranDoesGaming",
+            "link": "https://www.youtube.com/watch?v=cV04KpvfjHY",
+            "percent": 100,
+            "hz": 60
+        },
+        {    "user": "4lfi3",
+            "link": "https://www.youtube.com/watch?v=niB6I8F5N3E",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
