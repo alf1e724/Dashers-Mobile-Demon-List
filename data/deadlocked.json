@@ -1,0 +1,27 @@
+{
+    "id": 20,
+    "name": "Deadlocked",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "ToranDoesGaming",
+    "verification": "https://youtu.be/EDtPJrzZgNQ",
+    "percentToQualify": 100,
+    "password": "Ohio",
+    "records": [
+        {    "user": "BarneyDaFknDino",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 60
+        },
+        {    "user": "4lfi3",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 60
+        },
+        {    "user": "MrDoodle2o",
+            "link": "https://youtu.be/_2dPYnS0YoU?si=_o8iSHO8HaylIclz",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
